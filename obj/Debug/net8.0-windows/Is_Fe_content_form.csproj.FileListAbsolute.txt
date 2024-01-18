@@ -1,0 +1,16 @@
+C:\Users\MSI\source\repos\Is_Fe_content_form\Is_Fe_content_form\bin\Debug\net8.0-windows\Is_Fe_content_form.exe
+C:\Users\MSI\source\repos\Is_Fe_content_form\Is_Fe_content_form\bin\Debug\net8.0-windows\Is_Fe_content_form.deps.json
+C:\Users\MSI\source\repos\Is_Fe_content_form\Is_Fe_content_form\bin\Debug\net8.0-windows\Is_Fe_content_form.runtimeconfig.json
+C:\Users\MSI\source\repos\Is_Fe_content_form\Is_Fe_content_form\bin\Debug\net8.0-windows\Is_Fe_content_form.dll
+C:\Users\MSI\source\repos\Is_Fe_content_form\Is_Fe_content_form\bin\Debug\net8.0-windows\Is_Fe_content_form.pdb
+C:\Users\MSI\source\repos\Is_Fe_content_form\Is_Fe_content_form\obj\Debug\net8.0-windows\Is_Fe_content_form.Form1.resources
+C:\Users\MSI\source\repos\Is_Fe_content_form\Is_Fe_content_form\obj\Debug\net8.0-windows\Is_Fe_content_form.csproj.GenerateResource.cache
+C:\Users\MSI\source\repos\Is_Fe_content_form\Is_Fe_content_form\obj\Debug\net8.0-windows\Is_Fe_content_form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\source\repos\Is_Fe_content_form\Is_Fe_content_form\obj\Debug\net8.0-windows\Is_Fe_content_form.AssemblyInfoInputs.cache
+C:\Users\MSI\source\repos\Is_Fe_content_form\Is_Fe_content_form\obj\Debug\net8.0-windows\Is_Fe_content_form.AssemblyInfo.cs
+C:\Users\MSI\source\repos\Is_Fe_content_form\Is_Fe_content_form\obj\Debug\net8.0-windows\Is_Fe_content_form.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\Is_Fe_content_form\Is_Fe_content_form\obj\Debug\net8.0-windows\Is_Fe_content_form.dll
+C:\Users\MSI\source\repos\Is_Fe_content_form\Is_Fe_content_form\obj\Debug\net8.0-windows\refint\Is_Fe_content_form.dll
+C:\Users\MSI\source\repos\Is_Fe_content_form\Is_Fe_content_form\obj\Debug\net8.0-windows\Is_Fe_content_form.pdb
+C:\Users\MSI\source\repos\Is_Fe_content_form\Is_Fe_content_form\obj\Debug\net8.0-windows\Is_Fe_content_form.genruntimeconfig.cache
+C:\Users\MSI\source\repos\Is_Fe_content_form\Is_Fe_content_form\obj\Debug\net8.0-windows\ref\Is_Fe_content_form.dll
